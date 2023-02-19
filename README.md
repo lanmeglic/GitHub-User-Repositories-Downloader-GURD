@@ -1,6 +1,6 @@
 <h2>Overview</h2>
 
-<p>The GitHub Backup Script is a Python script that allows you to back up your GitHub repositories by cloning each repository to a local directory and then compressing the directory into a .zip file.</p>
+<p>This is a Python script that allows you to back up your GitHub repositories by cloning each repository to a local directory and then compressing the directory into a .zip file.</p>
 
 <h2>Steps to Use the Script</h2>
 
