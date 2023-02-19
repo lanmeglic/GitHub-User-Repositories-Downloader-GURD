@@ -30,7 +30,7 @@ def compress_backup(backup_dir, zip_file):
 
 if __name__ == "__main__":
     # Replace <GITHUB_ACCESS_TOKEN> with your GitHub access token
-    username = ">your_username"
+    username = "your_username"
     token = "your_token"
     backup_dir = "backup_path"
     backup_github_repos(username, token, backup_dir)
