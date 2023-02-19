@@ -6,7 +6,7 @@
 
 <ol>
 	<li>Create a personal access token on GitHub. To do this, go to your GitHub settings and click on "Developer settings" > "Personal access tokens". Then, click on "Generate new token" and follow the prompts to create a new token. Make sure to give the token the "repo" scope so that it can access your repositories.</li>
-	<li>Open the script in a text editor and replace the following values:
+	<li>Open the script in a text editor/visual studio and replace the following values:
 		<ul>
 			<li><code>your_username</code> with your GitHub username</li>
 			<li><code>your_token</code> with the access token you just created</li>
