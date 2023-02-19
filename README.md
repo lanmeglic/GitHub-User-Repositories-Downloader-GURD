@@ -12,7 +12,7 @@
 			<li><code>your_username</code> with your GitHub username</li>
 			<li><code>your_token</code> with the access token you just created</li>
 			<li><code>backup_path</code> with the path to the directory where you want to store the backup files. Make sure you use double backslashes.</li>
-			<li><code>path_to_zip_file</code> with the path to the .zip file that you want to create.</li>
+			<li><code>path_to_zip_file</code> with the path to the folder you want to compress into .zip file that you want to create. Make sure you use double backslashes.</li>
 		</ul>
 	</li>
 	<li>Save the modified script.</li>
