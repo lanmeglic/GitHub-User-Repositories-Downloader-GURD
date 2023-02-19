@@ -5,7 +5,7 @@
 <h2>Steps to Use the Script</h2>
 
 <ol>
-	<li>Create a personal access token on GitHub. To do this, go to your GitHub settings and click on "Developer settings" > "Personal access tokens". Then, click on "Generate new token" and follow the prompts to create a new token. Make sure to give the token the "repo" scope so that it can access your repositories. MAKE SURE YOU HAVE GIT INSTALLED</li>
+	<li>Create a personal access token on GitHub. To do this, go to your GitHub settings and click on "Developer settings" > "Personal access tokens". Then, click on "Generate new token" and follow the prompts to create a new token. Make sure to give the token the "repo" scope so that it can access your repositories. MAKE SURE YOU HAVE GIT INSTALLED.</li>
 	<li>Open the script in a text editor/visual studio and replace the following values:
 		<ul>
 			<li><code>username_youwantto_clone</code> with the username of the person you want to backup all the repos</li>
